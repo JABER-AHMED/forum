@@ -1,0 +1,97 @@
+.panel-primary>.panel-heading {
+
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.input-group .form-control {
+    padding: 2rem;
+    border-radius: 0px;
+}
+
+.form-group{
+
+	padding: .5rem;
+}
+
+.btn-block{
+
+	padding: 1rem;
+	border-radius: 0px;
+}
+
+.panel-body{
+
+	margin-top: -10px;
+}
+
+.navbar-nav>li>a {
+
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.navbar{
+
+	border-radius: 0px;
+}
+
+.btn-primary{
+
+    margin-top: 7px;
+}
+
+.dropdown-menu li{
+
+    padding: .5rem;
+    text-align: center;
+}
+
+.dropdown-menu li>a{
+
+    text-decoration: none;
+}
+
+.panel{
+
+    margin-top: 2rem;
+}
+.panel-heading{
+
+    font-family: fuck;
+}
+
+@font-face {
+
+    font-family: fuck;
+    src: url(../font/Roboto-Regular.ttf);
+}
+
+.panel-body h2{
+
+    margin-top:0px;
+    font-family: fuck;
+}
+
+.input-group-addon i{
+
+    width: 1rem;
+}
+
+table>tbody>tr>td{
+
+    border-bottom: 1px solid #ddd;
+}
+
+table>tbody>tr>td:last-child{
+
+    text-align: right;
+}
+
+table>tbody>tr>td:nth-child(3){
+
+    text-align: right;
+}
